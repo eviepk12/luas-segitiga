@@ -1,2 +1,2 @@
 # luas-segitiga
-Sucky project on C++ for an assignment
+Sucky project on C++ for a school assignment
