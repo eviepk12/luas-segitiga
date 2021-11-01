@@ -1,3 +1,4 @@
+// Calculate the base of a triangle
 #include <iostream>
 
 using std::cout;
@@ -6,9 +7,9 @@ using std::cin;
 int main () 
 {
     int alas, tinggi;
-    float luas;
+    float luas; // Float because the answer could be a decimal number 
 
-    cout << "Tuliskan nilai alasnya:";
+    cout << "Tuliskan nilai alasnya:"; 
     cin >> alas;
 
     cout << "Tuliskan nilai tingginya:";
